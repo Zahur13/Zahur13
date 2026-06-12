@@ -111,7 +111,7 @@ Learning   : DSA, System Design, Advanced Backend
 ## 🚀 AI Resume Analyzer SaaS
 
 <p align="center">
-  <img src="images/1project.png" alt="AI Resume Analyzer" width="800"/>
+  <img src="1project.png" alt="AI Resume Analyzer" width="800"/>
 </p>
 
 ### 🔗 Links
@@ -139,7 +139,7 @@ Learning   : DSA, System Design, Advanced Backend
 ## 🚀 Code Analyzer - AI Powered
 
 <p align="center">
-  <img src="images/code.png" alt="Code Analyzer" width="800"/>
+  <img src="code.png" alt="Code Analyzer" width="800"/>
 </p>
 
 ### 🔗 Links
@@ -168,7 +168,7 @@ Learning   : DSA, System Design, Advanced Backend
 ## 🏢 Large Scale - Employee Management System
 
 <p align="center">
-  <img src="images/ems.png" alt="Employee Management System" width="800"/>
+  <img src="ems.png" alt="Employee Management System" width="800"/>
 </p>
 
 ### 🔗 Links
