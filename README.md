@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zahur Shaikh</h1> 
 <h3 align="center">Full Stack Developer | React Developer | MERN Stack Enthusiast</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="/" alt="zahur13" width=800 />
-</p>
+</p> -->
 
 
 <p align="center">
