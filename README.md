@@ -2,14 +2,9 @@
 <h3 align="center">Full Stack Developer | React Developer | MERN Stack Enthusiast</h3>
 
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFU4SI9-jFZ-w/profile-displayphoto-crop_800_800/B56Z6bh15tGgAI-/0/1780725801893?e=1782950400&v=beta&t=_3l3IgEduFzf0OpngMKyj7iH9_ws92LU99qzhgG8qMU" alt="zahur13" />
+  <img src="/" alt="zahur13" width=800 />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zahur13" alt="zahur13" />
-  </a>
-</p>
 
 <p align="center">
   Passionate about building scalable web applications, solving real-world problems, and continuously improving my software engineering skills.
