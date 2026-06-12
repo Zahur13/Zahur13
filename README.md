@@ -111,13 +111,13 @@ Learning   : DSA, System Design, Advanced Backend
 ## 🚀 AI Resume Analyzer SaaS
 
 <p align="center">
-  <img src="github/1project.png" alt="AI Resume Analyzer" width="800"/>
+  <img src="images/1project.png" alt="AI Resume Analyzer" width="800"/>
 </p>
 
 ### 🔗 Links
 
-- 🌐 Live Demo: <https://your-demo-link.com>
-- 📂 GitHub: <https://github.com/zahur13/AI-Resume-Analyzer-SaaS>
+- 🌐 Live Demo: [Available-Soon]
+- 📂 GitHub: [Available-Soon]
 
 ### 🛠 Tech Stack
 
@@ -139,13 +139,13 @@ Learning   : DSA, System Design, Advanced Backend
 ## 🚀 Code Analyzer - AI Powered
 
 <p align="center">
-  <img src="github/code.png" alt="Code Analyzer" width="800"/>
+  <img src="images/code.png" alt="Code Analyzer" width="800"/>
 </p>
 
 ### 🔗 Links
 
-- 🌐 Live Demo: <https://your-demo-link.com>
-- 📂 GitHub: <https://github.com/zahur13/code-analyzer-ai>
+- [🌐 Live Demo Analyzer - AI Powered Analyzer - AI Powered](https://code-analyzer-five.vercel.app/)
+- 📂 GitHub: <https://github.com/Zahur13/code-analyzer.git>
 
 ### 🛠 Tech Stack
 
@@ -168,13 +168,13 @@ Learning   : DSA, System Design, Advanced Backend
 ## 🏢 Large Scale - Employee Management System
 
 <p align="center">
-  <img src="github/ems.png" alt="Employee Management System" width="800"/>
+  <img src="images/ems.png" alt="Employee Management System" width="800"/>
 </p>
 
 ### 🔗 Links
 
-- 🌐 Live Demo: <https://your-demo-link.com>
-- 📂 GitHub: <https://github.com/zahur13/employee-management-system>
+- [🌐 Live Demo Employee Management System](https://workflow-ems.vercel.app/)
+- 📂 GitHub: <https://github.com/Zahur13/workflow-ems.git>
 
 ### 🛠 Tech Stack
 
