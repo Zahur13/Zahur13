@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | React Developer | MERN Stack Enthusiast</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zahur13&label=Profile%20views&color=0e75b6&style=flat" alt="zahur13" />
+  <img src="[https://komarev.com/ghpvc/?username=zahur13&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D5603AQFU4SI9-jFZ-w/profile-displayphoto-crop_800_800/B56Z6bh15tGgAI-/0/1780725801893?e=1782950400&v=beta&t=_3l3IgEduFzf0OpngMKyj7iH9_ws92LU99qzhgG8qMU)" alt="zahur13" />
 </p>
 
 <p align="left">
